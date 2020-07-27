@@ -1,0 +1,23 @@
+
+Things you will need before starting the tool:
+- Python
+- Python package "requests"
+- Python package "threading"
+
+How to install Python packages:
+1. Install Python first.
+2. After installing open CMD.
+3. Type: pip install requests
+4. Press enter and wait
+5. When its done type: pip install threading
+6. Press enter and wait again
+7. Done, you can now start the tool. If there are any more errors just follow the instructions on the screen.
+
+ How to use:
+1. Download the Winrar file below and extract it to a new folder.
+2. Go to https://www.cxkes.me/xbox/xuid and type in the gamertag you want to add followers to. Select Decimal when doing it.
+3. Open the accounts.txt file in the folder and add your accounts (email:pass format).
+4. Start the add_friend.cmd file and paste in the XUID you generated in step 2.
+5. Press enter and wait till it is done.
+6. It will show accounts that were successful in adding the account and show accounts that weren't successful.
+7. You now sent yourself some followers. Repeat step 2-6 if you have new accounts and to get more followers.
